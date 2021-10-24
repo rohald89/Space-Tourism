@@ -82,6 +82,10 @@ p {
     font-weight: 400;
 }
 
+[hidden]{
+    display: none;
+}
+
 /* set up the body */
 body {
     font-family: var(--ff-sans-normal);
@@ -474,7 +478,7 @@ body {
 }
 
 /* details */
-.home{
+.destination{
     background-image: url(./assets/destination/background-destination-mobile.jpg);
 }
 
